@@ -1,5 +1,5 @@
 # Refactor
-For this project I was tasked with refactor a webpage in order to make imporve its quality.
+For this project I was tasked with refactor a webpage in order to imporve its quality.
 
 ## Requirements
 This project had to meet these following requirments in order to fit the Acceptance Criteria:
