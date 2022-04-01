@@ -3,21 +3,16 @@ For this project I was tasked with refactor a webpage in order to imporve its qu
 
 ## Requirements
 This project had to meet these following requirments in order to fit the Acceptance Criteria:
-1. Meets accessibility standards when looking at the source code
-1. Has semantic HTML elements
-1. Elements follow a logical structure
-1. Find accessible alt atributes for icons and images
-1. Headings fall into sequential order
-1. Title elements are concise and descriptive
+-Meets accessibility standards when looking at the source code
+-Has semantic HTML elements
+-Elements follow a logical structure
+-Find accessible alt atributes for icons and images
+-Headings fall into sequential order
+-Title elements are concise and descriptive
 
-## My Changes
-I made the following adjustments to the website:
-1. Add ID tag for "search engine optimization" in the navigation bar
-1. Added alt tag for first image
-1. Added alt tag for the "Online Reputation Management" image
-1. Added alt tag for the "Social Media Marketing" image
-1. Added alt tag for the "Lead Generation" icon  
-1. Added alt tag for Brand Awareness
-1. Added alt tag for Cost Management
-1. Changed header tags so they fit sequential order
-1. Changed the class=seo to an ID tag in order to change the color of “SEO” to make the pun more prominent.
+### Programs Used
+For this refactor the only programs used were HTML and CSS.
+
+### Examples of Changes
+One example of a change I made in order to refactor this website is fixing the navigation bar by adding an ID tag so the navigation bar knows where to go.
+![Code Refactor](screenshot(10).png)
