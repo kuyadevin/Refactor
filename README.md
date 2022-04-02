@@ -16,3 +16,8 @@ For this refactor the only programs used were HTML and CSS.
 ### Examples of Changes
 One example of a change I made in order to refactor this website is fixing the navigation bar by adding an ID tag so the navigation bar knows where to go.
 ![Code Refactor](https://github.com/kuyadevin/Refactor/blob/main/Screenshot%20(10).png)
+
+One major change I also made to this app was add alt tags to all of the images as they all lacked one.
+
+### Live Link
+https://kuyadevin.github.io/Refactor/
