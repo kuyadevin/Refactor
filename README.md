@@ -20,4 +20,4 @@ One example of a change I made in order to refactor this website is fixing the n
 One major change I also made to this app was add alt tags to all of the images as they all lacked one.
 
 ### Live Link
-https://kuyadevin.github.io/Refactor/
+[My Refactor](https://kuyadevin.github.io/Refactor/)
